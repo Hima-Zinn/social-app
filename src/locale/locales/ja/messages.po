@@ -8,14 +8,14 @@ msgstr ""
 "Language: ja\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-03-24 09:30+0900\n"
+"PO-Revision-Date: 2024-04-05 11:56+0900\n"
 "Last-Translator: Hima-Zinn\n"
 "Language-Team: Hima-Zinn, tkusano, dolciss, oboenikui, noritada, middlingphys, hibiki, reindex-ot, haoyayoi, vyv03354\n"
 "Plural-Forms: \n"
 
 #: src/view/com/modals/VerifyEmail.tsx:142
 msgid "(no email)"
-msgstr "メールがありません"
+msgstr ""
 
 #: src/view/shell/desktop/RightNav.tsx:168
 #~ msgid "{0, plural, one {# invite code available} other {# invite codes available}}"
